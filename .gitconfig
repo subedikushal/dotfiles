@@ -1,0 +1,11 @@
+[user]
+	email = kushalsubedi2@gmail.com
+	name = Kushal
+[alias]
+	hist = log --oneline --graph --decorate --all
+[core]
+	pager = less -iXFR
+[init]
+	defaultBranch = main
+[pull]
+	ff = only
